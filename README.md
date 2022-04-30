@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonayed153&label=Profile%20views&color=0e75b6&style=flat" alt="jonayed153" /> </p>
 
-- 🌱 I’m currently learning **Microservices architecture**
+- 🌱 I’m currently working on **Microservices architecture**
 
 - 💬 Ask me about **Spring, Java, React**
 
